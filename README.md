@@ -1,4 +1,4 @@
-# codemix-vanilla-web
+# codemix-vanilla-go
 
 Template for project creation of Go inside CodeMix
 
